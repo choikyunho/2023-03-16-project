@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  
+}
+
+header {
+  padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  /* background-color: rgb(167, 167, 246); */
+
+}
+
+img {
+  width: 108px;
+}
+
+button {
+  padding-left : 16px;
+  background-color: white;
+  border: 0;
+}
+
+
+.firstBtn {
+  margin-left: 80px;
+}
+
+.loginBox {
+  display: flex;
+}
+
+.ellipsis {
+  width: 24px;
+  margin-left: 16px;
+}
+
+

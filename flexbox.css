@@ -1,0 +1,88 @@
+
+/* //////////////////////////////////////////////////////////////////////////////////// */
+/* 1. 주석 풀기 */
+.box {
+  width: 200px;
+  height: 200px; 
+} 
+
+/* .box:nth-child(1) {
+  background-color: red;
+}
+
+.box:nth-child(2) {
+  background-color: rgb(251, 109, 0);
+}
+
+.box:nth-child(3) {
+  background-color: rgb(255, 242, 0);
+}
+
+.box:nth-child(4) {
+  background-color: rgb(34, 255, 0);
+} */
+
+/* //////////////////////////////////////////////////////////////////////////////////// */
+
+/* 2. 주석 풀기 */
+
+/* .container {
+  background-color: black;
+  display: flex;
+  height: 200px;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+} 
+
+.box:nth-child(1) {
+  background-color: red;
+}
+
+.box:nth-child(2) {
+  background-color: rgb(251, 109, 0);
+}
+
+.box:nth-child(3) {
+  background-color: rgb(255, 242, 0);
+}
+
+.box:nth-child(4) {
+  background-color: rgb(34, 255, 0);
+}  */
+
+/* //////////////////////////////////////////////////////////////////////////////////// */
+
+/* 3. 주석 풀기
+/* /justify-content : ; // 메인축으로 정렬하는 방법/ */
+
+/* .container {
+  justify-content: space-between;
+  background-color: black;
+  display: flex;
+  height: 200px;
+  
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+} 
+
+.box:nth-child(1) {
+  background-color: red;
+}
+
+.box:nth-child(2) {
+  background-color: rgb(251, 109, 0);
+}
+
+.box:nth-child(3) {
+  background-color: rgb(255, 242, 0);
+}
+
+.box:nth-child(4) {
+  background-color: rgb(34, 255, 0);
+}  */ 
